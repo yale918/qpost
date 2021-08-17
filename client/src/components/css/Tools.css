@@ -1,0 +1,11 @@
+.line1{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.line1 a{
+  margin-right: 20px;
+}
+.line1 p{
+  margin:5px;
+}
